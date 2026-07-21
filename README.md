@@ -102,5 +102,5 @@ Some measures used in this dashboard include:
 
 Junior Data Analyst
 
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: linkedin.com/in/mansur-ibrohimov06  
 - GitHub: https://github.com/mansuribrohimov
